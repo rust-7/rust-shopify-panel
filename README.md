@@ -20,4 +20,4 @@ node server.js
 
 Additional informations on configuration will be added soon...
 
-Help : [Community Discord Server](https://discord.gg/gnFTe58d)
+Help : [Discord](https://discord.gg/gnFTe58d)
